@@ -1,6 +1,6 @@
 # flutter_l10n
 
-A new Flutter project.
+A new l10n Flutter project.
 
 ## Getting Started
 
